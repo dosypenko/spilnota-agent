@@ -10,7 +10,7 @@ on the current keyword search — with evals at every step.
 ## Roadmap
 
 1. [x] Setup: Cohere SDK, API key, smoke test
-2. [ ] Fixtures: export approved listings to `fixtures/listings.json`
+2. [x] Fixtures: export approved listings to `fixtures/listings.json`
 3. [ ] Evals: test cases from real search queries; recall@5, MRR
 4. [ ] Baseline: keyword search over fixtures
 5. [ ] Cohere Embed → vector search
@@ -39,3 +39,18 @@ Query: 'барбер торонто'
 0.252  Манікюр і педикюр у Калгарі, українська майстриня
 0.095  Psychologist offering therapy sessions in Ukrainian
 ~~~
+
+## Step 2 — Fixtures
+
+`scripts/export_fixtures.py` pulls approved listings from the Supabase REST API (PostgREST) using the
+publishable key, so Row Level Security applies exactly as for a site visitor. The `meta` column is
+excluded on purpose. Output is committed to `fixtures/listings.json` so evals run without any keys.
+
+~~~
+Saved 46 listings to fixtures/listings.json
+By type: {'social': 6, 'business': 31, 'event': 2, 'group': 5, 'tool': 2}
+By city: {None: 8, 'Toronto': 29, 'Edmonton': 2, 'Vancouver': 2, 'Calgary': 5}
+~~~
+
+`city: None` are Canada-wide listings (`scope: "national"`). The dataset is Toronto-heavy (29/46),
+which the eval set needs to account for.

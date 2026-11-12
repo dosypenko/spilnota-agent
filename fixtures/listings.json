@@ -1,0 +1,792 @@
+[
+  {
+    "id": "0410ae69-25c6-4606-8a09-360f8b6541a7",
+    "type": "social",
+    "category": "community",
+    "name": "Ukrainian Media in Canada",
+    "description": "Ukrainian-language media account sharing news, stories about people, businesses and life of the Ukrainian community in Canada. Based in Toronto and covering the whole country.",
+    "description_uk": "Українське медіа, яке розповідає про новини, людей, бізнеси та життя української спільноти в Канаді. Працює з Торонто та охоплює всю країну.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://www.instagram.com/uamedia.ca",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "048b3f10-c526-44e2-a1ca-2f27f644a3c8",
+    "type": "business",
+    "category": "events",
+    "name": "MILAIRÉ",
+    "description": "Balloon and event decor business in Toronto and the GTA offering helium balloons, balloon bouquets and flowers, balloon arches and backdrops, with delivery. Orders and bookings are made by direct message.",
+    "description_uk": "Компанія з оформлення подій і повітряними кульками в Торонто та GTA: гелієві кульки, букети та квіти з кульок, арки з кульок і фотозони, є доставка. Замовлення й бронювання через особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/milaire.ca",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "14181fbe-25fe-41d9-ab30-e51e5d00d736",
+    "type": "business",
+    "category": "home",
+    "name": "Roof For Life Inc.",
+    "description": "Metal roofing company in the Greater Toronto Area: roof installation and replacement for homeowners. See completed projects and customer reviews on its Instagram.",
+    "description_uk": "Компанія з металевої покрівлі у Великому Торонто: встановлення та заміна дахів для власників будинків. Виконані проєкти й відгуки клієнтів — в Instagram.",
+    "scope": "city",
+    "province": null,
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/roof_for_life",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "17dce5af-bb43-44c1-9799-9706ef42f35e",
+    "type": "business",
+    "category": "events",
+    "name": "Anastasiya Protsyk Photography",
+    "description": "Photographer based in Toronto and Mississauga, serving the GTA, the USA and Europe. Offers family, love story, solo, maternity, engagement and event photography.",
+    "description_uk": "Фотографка в Торонто та Міссісазі, працює по всій GTA, у США та Європі. Пропонує сімейні, love story, індивідуальні, вагітні, заручинні та подієві фотосесії.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/nastia.protsyk.art",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "1835ea6f-2e6f-4e01-8879-be3d23dcfa66",
+    "type": "social",
+    "category": "culture",
+    "name": "Ukrainian Stand-up | Edmonton",
+    "description": "Instagram account of a Ukrainian-language stand-up community in Edmonton. It promotes stand-up shows, roasts and open mics for Ukrainian-speaking audiences and performers.",
+    "description_uk": "Instagram-акаунт україномовної стендап-спільноти в Едмонтоні. Тут розповідають про стендап-шоу, роасти та відкриті мікрофони для україномовних глядачів і виконавців.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Edmonton",
+    "district": null,
+    "link": "https://www.instagram.com/bande.role",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "26b11067-1324-449a-b505-7647df23e099",
+    "type": "business",
+    "category": "beauty",
+    "name": "Vitalii | Barber Toronto",
+    "description": "Barber working at Poison Barbershop in North York, open Tuesday to Saturday from 10am to 8pm. Clients can book online or by direct message.",
+    "description_uk": "Барбер у Poison Barbershop у Норт-Йорку, працює з вівторка по суботу з 10:00 до 20:00. Записатися можна онлайн або через особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "North York",
+    "link": "https://vitalii-barber.square.site/",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "26ec42ce-086f-441f-9d34-d20d7f386781",
+    "type": "business",
+    "category": "food",
+    "name": "Future Bakery",
+    "description": "Bakery with locations on Queen Street West and at St. Lawrence Market in Toronto. See the website for menu and addresses.",
+    "description_uk": "Пекарня з закладами на Queen Street West і на St. Lawrence Market у Торонто. Меню та адреси дивіться на сайті.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.futurebakery.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "3909564d-1064-4273-a7c8-ee89f00cfc47",
+    "type": "event",
+    "category": "networking",
+    "name": "Breakfast with Ukrainian Entrepreneurs: Toronto",
+    "description": "A morning networking breakfast in Toronto organized by EO Ukraine for business owners with US$1M+ in annual revenue. It runs on November 13 from 9:00 AM to 11:30 AM.",
+    "description_uk": "Ранковий нетворкінг-сніданок у Торонто від EO Ukraine для власників бізнесу з річним доходом від US$1 млн. Відбудеться 13 листопада з 9:00 до 11:30.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": null,
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "3ed38d6d-29f5-44df-ad23-72c8b6803452",
+    "type": "business",
+    "category": "auto",
+    "name": "Mechanic UA Toronto Car Service",
+    "description": "Car service shop in Vaughan offering maintenance, engine repair, suspension work and diagnostics. Open Monday to Friday 10AM-8PM, weekends by call.",
+    "description_uk": "Автосервіс у Vaughan: технічне обслуговування, ремонт двигуна, ремонт підвіски та діагностика. Працює з понеділка по п'ятницю з 10:00 до 20:00, у вихідні за дзвінком.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Vaughan",
+    "link": "https://www.instagram.com/mechanic_ua_toronto",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "460edfff-3c07-4999-acfd-895a68d4747c",
+    "type": "group",
+    "category": "networking",
+    "name": "PR CUAET PRCUAERT КУАЕТ",
+    "description": "Telegram group for Ukrainians in Canada who discuss permanent residence after CUAET. Useful for questions about the process from people in the same situation.",
+    "description_uk": "Telegram-група для українців у Канаді, які обговорюють отримання постійного резидентства (PR) після CUAET. Корисна для запитань про процес від людей у такій самій ситуації.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://t.me/prcuaet",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "4855d3ff-d84d-44d1-a11e-02e3f31c619d",
+    "type": "business",
+    "category": "beauty",
+    "name": "Julia Nails",
+    "description": "Nail studio in Toronto offering nail services with sterilized tools and appointments starting from 60 minutes.",
+    "description_uk": "Студія нігтьового сервісу в Торонто: послуги з манікюру зі стерилізованими інструментами, тривалість від 60 хвилин.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/julia_nails99_",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "49476527-803e-472e-b30d-20b5fee280b4",
+    "type": "business",
+    "category": "health",
+    "name": "Stadium Dental",
+    "description": "Dental clinic near Stadium-Chinatown SkyTrain offering general, children's and cosmetic dentistry, implants and emergency walk-ins. The clinic states it offers care in Ukrainian.",
+    "description_uk": "Стоматологічна клініка біля станції SkyTrain Stadium-Chinatown: загальна, дитяча й естетична стоматологія, імпланти та невідкладний прийом без запису. Клініка зазначає, що обслуговує українською.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://stadium-dental.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "4bc94fe8-2bdb-4087-93dd-c26ff4ca2f91",
+    "type": "tool",
+    "category": "government",
+    "name": "Консульство України в Канаді",
+    "description": "Telegram channel of the Ukrainian diplomatic mission in Canada. Consular news and official announcements for Ukrainians in Canada.",
+    "description_uk": "Telegram-канал дипломатичного представництва України в Канаді. Консульські новини та офіційні оголошення для українців у Канаді.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://t.me/UAEmbassyCanada",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "55562185-ac13-430e-aa4e-6cb63a232119",
+    "type": "business",
+    "category": "food",
+    "name": "Dnister Ukrainian Store",
+    "description": "Ukrainian food store and sausage maker on the lower level of St. Lawrence Market. A place to find Ukrainian sausages and groceries downtown.",
+    "description_uk": "Українська крамниця й ковбасний цех на нижньому поверсі St. Lawrence Market. Тут можна купити українські ковбаси та продукти в центрі міста.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "http://www.stlawrencemarket.com/vendors/vendor_detail/108",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "5b15762e-569c-430c-8e5a-c33a2a74cd7f",
+    "type": "business",
+    "category": "health",
+    "name": "Queensway Family Dentistry",
+    "description": "Family dental clinic in Toronto. Check the website for services and booking.",
+    "description_uk": "Сімейна стоматологічна клініка в Торонто. Послуги та запис дивіться на сайті.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://queenswayfamilydentistry.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "5e3ce396-7ebe-4081-b95f-b6e5702a7dda",
+    "type": "business",
+    "category": "food",
+    "name": "Coloreat",
+    "description": "Ukrainian restaurant in Oakville serving homemade dishes made with fresh ingredients. Orders are available through UberEats and DoorDash.",
+    "description_uk": "Український ресторан в Oakville, де готують домашні страви зі свіжих інгредієнтів. Замовити можна через UberEats і DoorDash.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Oakville",
+    "link": "https://coloreat.restaurant",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "600ba1ba-f471-4fff-b6ba-9ab9f69b3ec3",
+    "type": "business",
+    "category": "immigration",
+    "name": "Bosak Immigration",
+    "description": "Licensed Canadian immigration consultant Ostap Bosak (RCIC-IRB #R707276) offering online consultations across Canada on permanent residence, provincial nominee programs (PNP), Express Entry, H&C applications, sponsorship and visitor visas (TRV).",
+    "description_uk": "Ліцензований канадський імміграційний консультант Остап Босак (RCIC-IRB #R707276) проводить онлайн-консультації для клієнтів по всій Канаді: постійне проживання, провінційні програми номінації (PNP), Express Entry, гуманітарні та компасійні підстави (H&C), спонсорство та візитні візи (TRV).",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://calendly.com/bosakimmigration",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "625de04a-efdb-49ff-88d4-a78b33148e81",
+    "type": "event",
+    "category": "culture",
+    "name": "Stand-up + open mic",
+    "description": "Ukrainian-language stand-up show followed by an open mic, organized by Ukrainian stand-up Edmonton. It takes place on November 21, 2026 at 17:00 at Sherbrook Pub in Edmonton, and entry is any Canadian banknote.",
+    "description_uk": "Стендап українською мовою, після якого відбудеться open mic. Його організовує Ukrainian stand-up Edmonton. Захід відбудеться 21 листопада 2026 року о 17:00 у Sherbrook Pub в Едмонтоні, вхід за будь-яку канадську банкноту.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Edmonton",
+    "district": null,
+    "link": "https://instagram.com/bande.role",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "640d07f3-fac5-42a0-b216-0ba8097805c9",
+    "type": "business",
+    "category": "food",
+    "name": "Cakes Toronto",
+    "description": "Home bakery in Toronto making bento cakes and custom cakes. Orders and cooperation enquiries are taken through direct messages.",
+    "description_uk": "Кондитерська у Торонто, що виготовляє бенто-торти та торти на замовлення. Замовлення й пропозиції про співпрацю приймаються в особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/olya_cake_toronto",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "65338e8e-488d-4d39-9d5d-756aa8f00572",
+    "type": "business",
+    "category": "education",
+    "name": "The Shevchenko Museum",
+    "description": "Museum on Bloor Street West dedicated to Ukrainian poet and artist Taras Shevchenko. Visiting information is on the museum's website.",
+    "description_uk": "Музей на Bloor Street West, присвячений українському поетові й художникові Тарасу Шевченку. Інформація для відвідувачів є на сайті музею.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.shevchenko.ca/home.cfm",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "6590db03-d436-4dae-b984-d89bb7c3efbd",
+    "type": "business",
+    "category": "food",
+    "name": "Ukrainian Fine Foods",
+    "description": "Ukrainian restaurant and storefront in Calgary's Manchester area, with food trucks and a stall at Crossroads Market.",
+    "description_uk": "Український ресторан і крамниця в районі Manchester у Калгарі. Також мають фудтраки та точку на Crossroads Market.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://www.ukrainianfinefoods.net/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "6ec17e8f-7cc4-484c-94fb-5626da5c5c33",
+    "type": "tool",
+    "category": "it",
+    "name": "RoastPro",
+    "description": "An AI resume checker that reviews a resume against Canadian employer expectations and scores its match to a specific job posting. It also adds provincial salary data from Job Bank, and the first analysis is free.",
+    "description_uk": "AI-перевірка резюме під канадський ринок праці. Аналізує резюме з огляду на очікування канадських роботодавців, показує, наскільки воно відповідає конкретній вакансії, і додає дані про зарплати за провінціями з Job Bank. Перший аналіз безкоштовний. Проєкт автора Spilnota.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://roastpro.ca",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "7a9c2203-0ce6-407f-a53e-add54838a0b9",
+    "type": "social",
+    "category": "community",
+    "name": "Plast Toronto",
+    "description": "Instagram account of Plast Toronto, the Toronto branch of the Ukrainian scouting organization Plast. It is aimed at the Ukrainian community in Toronto.",
+    "description_uk": "Інстаграм-сторінка Plast Toronto, торонтонського осередку української скаутської організації Пласт. Вона розрахована на українську спільноту в Торонто.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/plasttoronto",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "7e962d1b-6e6a-4092-a7d4-0c130e462ae8",
+    "type": "business",
+    "category": "home",
+    "name": "4M Cleaning",
+    "description": "Insured cleaning company serving Toronto and the GTA since 2022, offering regular, deep, post-renovation, move-in/move-out and luxury build cleaning. Clients book by direct message.",
+    "description_uk": "Застрахована клінінгова компанія, що працює у Торонто та GTA з 2022 року: регулярне, генеральне, післяремонтне прибирання, прибирання при переїзді та в елітних новобудовах. Записатися можна через особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/4m_cleaning",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "9a026aad-36df-4baf-823b-d550543f3098",
+    "type": "business",
+    "category": "events",
+    "name": "Toronto Wedding MC | Vladyslav Katsalap",
+    "description": "MC and DJ based in Toronto, hosting modern multicultural weddings and other events. Also travels for events outside the city.",
+    "description_uk": "Ведучий і ді-джей у Торонто, який проводить сучасні мультикультурні весілля та інші заходи. Також виїжджає на події за межі міста.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://kgroupentertainment.ca",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "9a186a44-7ebb-4f39-a546-345661ed8436",
+    "type": "business",
+    "category": "food",
+    "name": "Perogy Boyz",
+    "description": "Year-round perogy food truck in Calgary. Its current location is posted on its social media.",
+    "description_uk": "Фудтрак з варениками в Калгарі, працює цілий рік. Де він зараз, дивіться в його соцмережах.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://perogyboyz.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "ab0badff-700e-48ff-8722-db1f0f672d6f",
+    "type": "business",
+    "category": "food",
+    "name": "Kalyna Kalinka European Food Market & Ukrainian Deli",
+    "description": "Ukrainian deli and European food market in the Fairview area of Calgary. A place for Ukrainian and Eastern European groceries.",
+    "description_uk": "Українська делікатесна крамниця та європейський продуктовий магазин у районі Fairview у Калгарі. Українські та східноєвропейські продукти.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://www.kalynastore.ca/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "ac049faf-8f69-4295-a88e-f19e4b2b81f2",
+    "type": "business",
+    "category": "beauty",
+    "name": "Stanislav Pavliv - Toronto Barber",
+    "description": "Barber in Toronto offering haircuts, working at 33 Yonge St with online booking. Linked to the Rendezvous barbershops.",
+    "description_uk": "Барбер у Торонто, працює за адресою 33 Yonge St, є онлайн-запис. Пов'язаний із барбершопами Rendezvous.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://getsqr.co/stas-p",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "b09d68c3-f3f6-4939-a8a1-b6c16eca6f8c",
+    "type": "business",
+    "category": "food",
+    "name": "Kozak Ukrainian Eatery",
+    "description": "Ukrainian eatery and bakery with locations in New Westminster, Vancouver and Gastown. See its Instagram for current locations and news.",
+    "description_uk": "Українська їдальня й пекарня із закладами в New Westminster, Ванкувері та Gastown. Актуальні адреси й новини в Instagram.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://www.kozakeatery.ca/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "b1b12137-3cf4-471a-b6ce-b4a404c0bff1",
+    "type": "business",
+    "category": "food",
+    "name": "Koota Ooma",
+    "description": "Etobicoke shop with Ukrainian books, toys, cards and home decor. A place to look for Ukrainian gifts and children's items.",
+    "description_uk": "Крамниця в Етобіко з українськими книжками, іграшками, листівками та декором для дому. Гарне місце для українських подарунків і дитячих речей.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://kootaooma.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "b26c64ea-5576-42b5-b3c4-94efb9f059f4",
+    "type": "business",
+    "category": "food",
+    "name": "Janchenko's Bakery",
+    "description": "Bakery on Bloor Street West in Toronto, featured in lists of Ukrainian businesses in the city. Updates are posted on its Instagram.",
+    "description_uk": "Пекарня на Bloor Street West у Торонто, яку згадують серед українських бізнесів міста. Новини публікує в Instagram.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/janchenkobakery/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "b399dfc5-f4e9-4890-afe7-6cfecdfb0b5d",
+    "type": "group",
+    "category": "networking",
+    "name": "Ukrainian Canadian Professional and Business Association of Calgary",
+    "description": "Association that connects Ukrainian Canadian professionals and business owners in Calgary. A place for networking and community events.",
+    "description_uk": "Асоціація, що об'єднує українсько-канадських фахівців і власників бізнесу в Калгарі. Нетворкінг і події громади.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://ucpbacalgary.ca/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "b5e29b1e-4940-499d-85f0-feb18405ba1c",
+    "type": "social",
+    "category": "community",
+    "name": "Дмитро | Життя в Канаді",
+    "description": "Instagram account of a Ukrainian-speaking creator who has lived in Toronto for four years. It shares videos on real prices, taxes, healthcare costs and everyday life in Canada for newcomers.",
+    "description_uk": "Instagram україномовного автора, який чотири роки живе в Торонто. Відео про реальні ціни, податки, вартість медицини та повсякденне життя в Канаді для новоприбулих.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://www.instagram.com/dimonosja",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "bd8e1d00-4806-4b61-8916-cb57ee438422",
+    "type": "group",
+    "category": "networking",
+    "name": "UA Canada - Ми в Канада",
+    "description": "Telegram group for Ukrainians in Canada, including CUAET arrivals. A place to ask questions and share news about life in Canada.",
+    "description_uk": "Telegram-група для українців у Канаді, зокрема тих, хто приїхав за CUAET. Тут можна поставити запитання й поділитися новинами про життя в Канаді.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://t.me/UA_Canada_Cuaet",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "c08c1776-3a68-4fcb-86a3-3d58511ad2c4",
+    "type": "business",
+    "category": "beauty",
+    "name": "Clippers Barbershop",
+    "description": "Barbershop in downtown Toronto run by Ukrainian barbers, offering men's haircuts with washing and styling.",
+    "description_uk": "Барбершоп у центрі Торонто з українськими барберами, який пропонує чоловічі стрижки з миттям і укладанням.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/clippers_barbershop_toronto",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "c36abd3b-f5cf-436f-bb4c-62828104e372",
+    "type": "business",
+    "category": "events",
+    "name": "Liliia Lobenko Photography",
+    "description": "Photographer in Toronto and the GTA offering couple, portrait and maternity photo sessions. Clients book by direct message.",
+    "description_uk": "Фотографка у Торонто та GTA, яка проводить фотосесії для пар, портретні та фотосесії для вагітних. Записатися можна через особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://liliialobenko.pixieset.com",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "ce87c254-9c7b-4661-b5e6-0a05fc17cf66",
+    "type": "business",
+    "category": "health",
+    "name": "Yoga Oksi",
+    "description": "Yoga instructor in Toronto certified as Yoga Alliance RYT 500, offering online, in-person and individual yoga classes, including Sadhu board practice.",
+    "description_uk": "Інструкторка з йоги у Торонто з сертифікацією Yoga Alliance RYT 500. Проводить онлайн, офлайн та індивідуальні заняття з йоги, зокрема практику на садху-борді.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/yoga_oksi",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "d0258b70-c1aa-4213-b693-5cccc410fd22",
+    "type": "social",
+    "category": "culture",
+    "name": "Ukrainian Museum of Canada ON",
+    "description": "Museum in Toronto with a collection of over 8,000 Ukrainian artifacts. Admission is by donation.",
+    "description_uk": "Музей у Торонто з колекцією понад 8000 українських артефактів. Вхід за пожертву.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/umcontario",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "ddb7c145-6f8e-49ca-952b-93ecab8e8fd3",
+    "type": "business",
+    "category": "auto",
+    "name": "Mechanic UA Toronto",
+    "description": "Car service offering maintenance, engine repair, suspension work and diagnostics. Open Mon–Fri 10am–8pm, weekends by phone appointment; serves customers in Ukrainian and English.",
+    "description_uk": "Автосервіс, який пропонує технічне обслуговування, ремонт двигунів, ремонт підвіски та діагностику. Працює з понеділка по п'ятницю з 10:00 до 20:00, у вихідні — за дзвінком; обслуговує українською та англійською.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://instagram.com/mechanic_ua_toronto",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "e148d3fb-f780-439e-82cf-2fa916707afa",
+    "type": "group",
+    "category": "networking",
+    "name": "Канада_IT",
+    "description": "Telegram group for IT professionals in Canada. For job market questions, advice and networking.",
+    "description_uk": "Telegram-група для IT-фахівців у Канаді. Для запитань про ринок праці, порад і нетворкінгу.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://t.me/canada_it",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "e1fbce94-ae47-47f2-a0b7-39cab6c39bce",
+    "type": "business",
+    "category": "food",
+    "name": "Heavenly Perogy",
+    "description": "Perogy restaurant at 400 Bathurst St in Toronto. A simple place to try Ukrainian-style perogies.",
+    "description_uk": "Ресторан вареників на 400 Bathurst St у Торонто. Невибагливе місце, щоб скуштувати вареники по-українськи.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.heavenlyperogy.ca/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "e3ea70e4-4172-4cba-9a4e-7a5602762baf",
+    "type": "business",
+    "category": "food",
+    "name": "Barrel House Korchma",
+    "description": "Ukrainian restaurant in Etobicoke serving traditional dishes. Located on Lake Shore Blvd W.",
+    "description_uk": "Український ресторан в Етобіко з традиційними стравами. Розташований на Lake Shore Blvd W.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.barrelhousekorchma.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "e80bed43-0850-476f-84a8-3498b973b669",
+    "type": "business",
+    "category": "food",
+    "name": "Wiki Cafe Bakery",
+    "description": "Cafe and bakery offering fresh coffee and baked goods daily, with locations at 2114 Bloor Street West and 88 Palace Pier Court in Etobicoke.",
+    "description_uk": "Кав'ярня та пекарня, де щодня пропонують свіжу каву та випічку. Є дві локації: 2114 Bloor Street West і 88 Palace Pier Court в Етобіко.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Etobicoke",
+    "link": "https://www.instagram.com/wiki.cafe.bakery",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "f94f1dc3-ca39-4bb4-bd2d-4e01d857360b",
+    "type": "group",
+    "category": "networking",
+    "name": "Українська спільнота в Калгарі",
+    "description": "Telegram group of the Ukrainian community in Calgary. For local questions, advice and announcements.",
+    "description_uk": "Telegram-група української громади Калгарі. Для місцевих запитань, порад і оголошень.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://t.me/Calgary_AB",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "fb274091-bab2-41d6-a2bb-5da8f73ad463",
+    "type": "business",
+    "category": "realestate",
+    "name": "Оксана Брат",
+    "description": "Helps Ukrainian families in Toronto and the GTA buy their first home in Canada. Explains the process simply and in Ukrainian.",
+    "description_uk": "Допомагає українським сімʼям у Торонто та GTA купити перше житло в Канаді. Пояснює все просто й українською.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/oksana_brat13",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "ff9cad6c-a3ae-4a11-b952-0daecba42946",
+    "type": "social",
+    "category": "community",
+    "name": "Українці та Торонто",
+    "description": "Entertainment and information blog in Ukrainian for the Ukrainian community in Toronto.",
+    "description_uk": "Розважально-інформаційний блог українською мовою для української спільноти в Торонто.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/ukrainians_and_toronto",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  }
+]

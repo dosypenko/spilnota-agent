@@ -597,12 +597,14 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "cohere" },
+    { name = "httpx" },
     { name = "python-dotenv" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "cohere", specifier = ">=7.3.1" },
+    { name = "httpx", specifier = ">=0.28.1" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
 ]
 
