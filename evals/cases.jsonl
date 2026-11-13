@@ -1,0 +1,27 @@
+{"id": "real-01", "query": "стоматолог", "city": null, "relevant": ["5b15762e", "49476527"], "source": "real", "note": "uk query, en listing names"}
+{"id": "real-02", "query": "dentist", "city": "Toronto", "relevant": ["5b15762e"], "source": "real", "note": "city filter excludes Vancouver dentist"}
+{"id": "real-03", "query": "stoma", "city": null, "relevant": ["5b15762e", "49476527"], "source": "real", "note": "truncated transliteration"}
+{"id": "real-04", "query": "іещьф", "city": null, "relevant": ["5b15762e", "49476527"], "source": "real", "note": "'stoma' typed on Ukrainian keyboard layout"}
+{"id": "real-05", "query": "імміграц", "city": null, "relevant": ["600ba1ba", "460edfff"], "source": "real", "note": "prefix; immigration firm + PR CUAET group"}
+{"id": "real-06", "query": "uamedia", "city": "Toronto", "relevant": ["0410ae69"], "source": "real", "note": "prod failure: national listing, term only in link"}
+{"id": "real-07", "query": "ріелтор", "city": null, "relevant": ["fb274091"], "source": "real", "note": ""}
+{"id": "real-08", "query": "realtor", "city": null, "relevant": ["fb274091"], "source": "real", "note": "en query, uk listing name"}
+{"id": "real-09", "query": "дах торо", "city": null, "relevant": ["14181fbe"], "source": "real", "note": "truncated uk query, en listing"}
+{"id": "real-10", "query": "balloons", "city": null, "relevant": ["048b3f10"], "source": "real", "note": "service not in listing name"}
+{"id": "real-11", "query": "milairé", "city": null, "relevant": ["048b3f10"], "source": "real", "note": "diacritics"}
+{"id": "real-12", "query": "future bakery", "city": null, "relevant": ["26ec42ce"], "source": "real", "note": "exact name"}
+{"id": "real-13", "query": "software developer", "city": null, "relevant": ["e148d3fb"], "source": "real", "note": "en query, uk group name"}
+{"id": "real-14", "query": "калгарі", "city": null, "relevant": ["b399dfc5", "f94f1dc3"], "source": "real", "note": "city name as query"}
+{"id": "syn-01", "query": "барбер", "city": null, "relevant": ["26b11067", "ac049faf", "c08c1776"], "source": "synthetic", "note": ""}
+{"id": "syn-02", "query": "nails toronto", "city": null, "relevant": ["4855d3ff"], "source": "synthetic", "note": ""}
+{"id": "syn-03", "query": "манікюр", "city": null, "relevant": ["4855d3ff"], "source": "synthetic", "note": "uk query, en listing name"}
+{"id": "syn-04", "query": "dentist vancouver", "city": null, "relevant": ["49476527"], "source": "synthetic", "note": "city inside query text"}
+{"id": "syn-05", "query": "вареники калгарі", "city": null, "relevant": ["9a186a44"], "source": "synthetic", "note": "perogy = вареники"}
+{"id": "syn-06", "query": "український ресторан ванкувер", "city": null, "relevant": ["b09d68c3"], "source": "synthetic", "note": ""}
+{"id": "syn-07", "query": "ukrainian deli calgary", "city": null, "relevant": ["ab0badff", "6590db03"], "source": "synthetic", "note": ""}
+{"id": "syn-08", "query": "stand-up edmonton", "city": null, "relevant": ["1835ea6f", "625de04a"], "source": "synthetic", "note": ""}
+{"id": "syn-09", "query": "весільний фотограф", "city": null, "relevant": ["17dce5af", "c36abd3b"], "source": "synthetic", "note": ""}
+{"id": "syn-10", "query": "автосервіс", "city": null, "relevant": ["3ed38d6d", "ddb7c145"], "source": "synthetic", "note": ""}
+{"id": "syn-11", "query": "консульство", "city": null, "relevant": ["4bc94fe8"], "source": "synthetic", "note": ""}
+{"id": "syn-12", "query": "прибирання квартири", "city": null, "relevant": ["7e962d1b"], "source": "synthetic", "note": ""}
+{"id": "syn-13", "query": "перевірити резюме", "city": null, "relevant": ["6ec17e8f"], "source": "synthetic", "note": "intent, no shared words"}
