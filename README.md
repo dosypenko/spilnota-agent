@@ -14,7 +14,7 @@ on the current keyword search — with evals at every step.
 3. [x] Evals: test cases from real search queries; recall@5, MRR
 4. [x] Baseline: keyword search over fixtures
 5. [x] Cohere Embed → vector search
-6. [ ] Cohere Rerank on top
+6. [x] Cohere Rerank on top
 7. [ ] Tool-use agent with Command; port to AWS Bedrock
 
 ## Setup
@@ -126,3 +126,33 @@ meaning without shared words (`software developer` → a Ukrainian IT community 
 To a model it is noise; a plain layout-conversion function before search is the right tool here.
 
 Caveat: with 14 real cases, one case moves recall by ~0.07. The direction is clear; the decimals are not.
+
+## Step 6 — Cohere Rerank
+
+`src/spilnota_agent/search_rerank.py`: two-stage search. The embedding retriever picks the top 20
+candidates; Cohere Rerank (a cross-encoder that reads query and listing together) reorders them.
+The retriever is injected as any `(query, city) -> ids` function, so Rerank runs on top of any search.
+
+### Results — real queries (14)
+
+| Approach | recall@5 | MRR |
+|---|---|---|
+| Keyword baseline | 0.607 | 0.589 |
+| `embed-v4.0` | 0.857 | 0.859 |
+| `embed-v5.0-fast` | 0.857 | 0.834 |
+| `embed-v4.0` + `rerank-v3.5` | 0.857 | 0.931 |
+| **`embed-v5.0-fast` + `rerank-v3.5`** | **0.893** | **0.931** |
+
+All embedding and rerank setups score 1.000 recall@5 on the synthetic set.
+
+**What the numbers say**
+
+- **Embed finds, Rerank orders.** Rerank never changes which listings are candidates, so on its own
+  it lifts MRR, not recall.
+- **Same average, different mistakes.** `embed-v4.0` and `embed-v5.0-fast` tie on recall but fail on
+  different queries. v5 had the right roofing company for `дах торо` at position 7; Rerank moved it to 1.
+- **Rerank can hurt.** For `імміграц`, v5 alone returned both immigration listings in the top 5;
+  after reranking, the PR CUAET group dropped out. Per-case results catch this; averages hide it.
+- **Models aren't the fix for everything.** `іещьф` ("stoma" on a Ukrainian keyboard layout) is never
+  even a candidate. A layout-conversion step before search is the right tool.
+- **Small sample.** 0.857 → 0.893 is one query. Treat the gap as a signal, not a proof.
