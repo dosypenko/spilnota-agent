@@ -13,7 +13,7 @@ on the current keyword search — with evals at every step.
 2. [x] Fixtures: export approved listings to `fixtures/listings.json`
 3. [x] Evals: test cases from real search queries; recall@5, MRR
 4. [x] Baseline: keyword search over fixtures
-5. [ ] Cohere Embed → vector search
+5. [x] Cohere Embed → vector search
 6. [ ] Cohere Rerank on top
 7. [ ] Tool-use agent with Command; port to AWS Bedrock
 
@@ -104,3 +104,25 @@ Where keyword search fails on real queries:
 
 Side finding: `uamedia` returns 0 results in production but is found here, because the baseline
 also searches the `link` field.
+
+## Step 5 — Cohere Embed
+
+`src/spilnota_agent/search_embed.py` embeds each listing once (name, category, city and both
+descriptions) with `input_type="search_document"`, embeds the query with `"search_query"`, and ranks
+by cosine similarity. Vectors are cached on disk by text hash, so re-runs cost no API calls.
+
+| Real queries (14) | recall@5 | MRR |
+|---|---|---|
+| Keyword baseline | 0.607 | 0.589 |
+| Cohere `embed-v4.0` | **0.857** | **0.859** |
+
+Synthetic set: 1.000 / 1.000.
+
+**Fixed by embeddings:** synonyms (`realtor`, `ріелтор` → a Ukrainian real-estate agent),
+meaning without shared words (`software developer` → a Ukrainian IT community group), ranking
+(`калгарі` now puts the Calgary community groups first), and partly transliteration (`stoma`).
+
+**Not fixed:** `іещьф` — "stoma" typed on a Ukrainian keyboard layout — lands around position 33.
+To a model it is noise; a plain layout-conversion function before search is the right tool here.
+
+Caveat: with 14 real cases, one case moves recall by ~0.07. The direction is clear; the decimals are not.
