@@ -12,7 +12,7 @@ on the current keyword search — with evals at every step.
 1. [x] Setup: Cohere SDK, API key, smoke test
 2. [x] Fixtures: export approved listings to `fixtures/listings.json`
 3. [x] Evals: test cases from real search queries; recall@5, MRR
-4. [ ] Baseline: keyword search over fixtures
+4. [x] Baseline: keyword search over fixtures
 5. [ ] Cohere Embed → vector search
 6. [ ] Cohere Rerank on top
 7. [ ] Tool-use agent with Command; port to AWS Bedrock
@@ -78,3 +78,29 @@ Real queries include the messy things users actually type:
 - **MRR**: mean of 1 / position of the first correct listing
 
 The harness was checked against an oracle search (1.000 / 1.000) and an empty one (0.000 / 0.000).
+
+## Step 4 — Keyword baseline
+
+`src/spilnota_agent/search_keyword.py`: lowercase, split into words, count query words found as
+substrings in name, both descriptions, category, city and link. No dictionary, no typo handling.
+
+| Set | recall@5 | MRR |
+|---|---|---|
+| real (14) | **0.607** | **0.589** |
+| synthetic (13) | 1.000 | 0.904 |
+| all (27) | 0.796 | 0.741 |
+
+**Synthetic cases turned out too easy.** Every listing has both an English and a Ukrainian
+description, so a query in either language usually shares words with one of them. The real-query
+number is the one to beat.
+
+Where keyword search fails on real queries:
+
+- **Synonyms / meaning**: `realtor`, `ріелтор`, `software developer` share no words with the listing
+- **Transliteration**: `stoma` (Latin) vs `стоматологія` (Cyrillic)
+- **Keyboard layout**: `іещьф` is "stoma" typed on a Ukrainian layout
+- **Ranking**: `калгарі` finds the right groups but ranks them 4th–5th, because many listings
+  mention Calgary and ties fall back to file order
+
+Side finding: `uamedia` returns 0 results in production but is found here, because the baseline
+also searches the `link` field.
