@@ -156,3 +156,34 @@ All embedding and rerank setups score 1.000 recall@5 on the synthetic set.
 - **Models aren't the fix for everything.** `іещьф` ("stoma" on a Ukrainian keyboard layout) is never
   even a candidate. A layout-conversion step before search is the right tool.
 - **Small sample.** 0.857 → 0.893 is one query. Treat the gap as a signal, not a proof.
+
+## Re-run: catalog grew from 46 to 77 listings
+
+New listings were exported, and every existing case was re-checked: new photographers, a nail
+salon, an IRCC translation service and a second Kozak listing became correct answers to old
+queries. Four cases were added: `runok` (a real logged query whose running club is now listed) and
+three **blind** queries, written by hand before reading any new listing descriptions.
+
+Recall@k is now divided by `min(relevant, k)`: `весільний фотограф` has 7 correct answers, so even
+a perfect top 5 used to score 0.71. Full per-case output is in `evals/results/`.
+
+| Approach | real (15) | blind (3) | all (31) |
+|---|---|---|---|
+| Keyword | 0.556 / 0.608 | 0.333 / 0.333 | 0.640 / 0.719 |
+| `embed-v4.0` | 0.878 / 0.840 | 1.000 / 0.778 | 0.909 / 0.901 |
+| `embed-v5.0-fast` | 0.844 / 0.840 | 0.500 / 0.694 | 0.876 / 0.893 |
+| `embed-v4.0` + `rerank-v3.5` | 0.856 / 0.934 | **1.000 / 1.000** | **0.930 / 0.968** |
+| `embed-v5.0-fast` + `rerank-v3.5` | **0.889 / 0.935** | 0.833 / 1.000 | **0.930 / 0.968** |
+
+*recall@5 / MRR*
+
+**What changed**
+
+- **Keyword search got worse with no code change** (real recall 0.607 → 0.556). More listings mean
+  more accidental word matches: `калгарі` now ranks the Calgary groups below new Calgary businesses.
+  Embeddings and rerank held steady. The gap grows with the catalog.
+- **v4 vs v5 is a tie.** Both reach 0.930 / 0.968 overall with rerank; each wins on different queries.
+- **Rerank consistently hurts `імміграц`** (0.67 → 0.33 with both models). It seems to discount the
+  truncated word; worth a closer look.
+- **Content gaps, not search bugs:** `ветеринар` and `випічка калгарі` have no correct answer in
+  the catalog yet. These need a separate "no answer" metric.

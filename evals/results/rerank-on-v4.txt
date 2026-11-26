@@ -1,0 +1,38 @@
+Retriever: embed-v4.0, reranker: rerank-v3.5
+
+real-01  recall@5=1.00  rr=1.00  стоматолог
+real-02  recall@5=1.00  rr=1.00  dentist
+real-03  recall@5=0.50  rr=1.00  stoma
+real-04  recall@5=0.00  rr=0.02  іещьф
+real-05  recall@5=0.33  rr=1.00  імміграц
+real-06  recall@5=1.00  rr=1.00  uamedia
+real-07  recall@5=1.00  rr=1.00  ріелтор
+real-08  recall@5=1.00  rr=1.00  realtor
+real-09  recall@5=1.00  rr=1.00  дах торо
+real-10  recall@5=1.00  rr=1.00  balloons
+real-11  recall@5=1.00  rr=1.00  milairé
+real-12  recall@5=1.00  rr=1.00  future bakery
+real-13  recall@5=1.00  rr=1.00  software developer
+real-14  recall@5=1.00  rr=1.00  калгарі
+syn-01   recall@5=1.00  rr=1.00  барбер
+syn-02   recall@5=1.00  rr=1.00  nails toronto
+syn-03   recall@5=1.00  rr=1.00  манікюр
+syn-04   recall@5=1.00  rr=1.00  dentist vancouver
+syn-05   recall@5=1.00  rr=1.00  вареники калгарі
+syn-06   recall@5=1.00  rr=1.00  український ресторан ванкувер
+syn-07   recall@5=1.00  rr=1.00  ukrainian deli calgary
+syn-08   recall@5=1.00  rr=1.00  stand-up edmonton
+syn-09   recall@5=1.00  rr=1.00  весільний фотограф
+syn-10   recall@5=1.00  rr=1.00  автосервіс
+syn-11   recall@5=1.00  rr=1.00  консульство
+syn-12   recall@5=1.00  rr=1.00  прибирання квартири
+syn-13   recall@5=1.00  rr=1.00  перевірити резюме
+real-15  recall@5=1.00  rr=1.00  runok
+blind-01 recall@5=1.00  rr=1.00  stomatolog
+blind-02 recall@5=1.00  rr=1.00  стомалогон
+blind-03 recall@5=1.00  rr=1.00  біг торонто
+
+blind      n= 3  recall@5=1.000  MRR=1.000
+real       n=15  recall@5=0.856  MRR=0.934
+synthetic  n=13  recall@5=1.000  MRR=1.000
+all        n=31  recall@5=0.930  MRR=0.968

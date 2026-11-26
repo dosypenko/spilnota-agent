@@ -35,6 +35,41 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "05e38bf4-4fa8-4fe6-82be-285329abf573",
+    "type": "business",
+    "category": "home",
+    "name": "Huetura Inc.",
+    "description": "Huetura Inc. is a Calgary painting company for homes and small businesses: interior and exterior painting, cabinet painting, drywall repair, fence & deck painting, and paver sealing. Careful prep, clean lines, and payment only after the work is complete and you've walked it through with us.",
+    "description_uk": "Huetura Inc. — малярна компанія в Калгарі для будинків і малого бізнесу: внутрішнє та зовнішнє фарбування, фарбування шаф, ремонт гіпсокартону, фарбування парканів і терас, а також герметизація бруківки. Ретельна підготовка, акуратні лінії та оплата лише після завершення роботи і вашого огляду разом із нами.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://huetura.com",
+    "languages": [
+      "uk",
+      "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "11837945-59fc-45aa-b882-2a47269c4482",
+    "type": "group",
+    "category": "sports",
+    "name": "RunOK Ukrainian Running Club",
+    "description": "Running club in Toronto for active Ukrainians, running since 2022 and holding weekly runs open to all.",
+    "description_uk": "Бігова спільнота в Торонто для активних українців, яка діє з 2022 року та проводить щотижневі пробіжки, відкриті для всіх.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/runok_urc",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
     "id": "14181fbe-25fe-41d9-ab30-e51e5d00d736",
     "type": "business",
     "category": "home",
@@ -121,6 +156,57 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "2a1898ce-a44d-4cb6-b1c0-40d4a1287664",
+    "type": "event",
+    "category": "food",
+    "name": "ФЕСТ СМАЧНО з VDOMA hub",
+    "description": "Culinary festival of Ukrainian cuisine on December 13, 2026, from 3:00 to 6:00 PM in Mississauga, with stories about traditional dishes from different regions, cooking secrets, quizzes, contests, games and Ukrainian treats. Admission is 25 CAD and registration is required; organized by VDOMA hub, a Ukrainian community in Toronto.",
+    "description_uk": "Кулінарний фестиваль української кухні 13 грудня 2026 року з 15:00 до 18:00 у Міссісазі: історії про традиційні страви різних регіонів, кулінарні секрети, вікторини й конкурси, ігри та українські смаколики. Вхід — 25 CAD, реєстрація обов'язкова; організатор — VDOMA hub, спільнота українців у Торонто.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Mississauga",
+    "link": "https://forms.gle/zJjXXp3TNwEGqf9G8",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "31adddde-e4c7-4500-b883-dc026c1f785b",
+    "type": "business",
+    "category": "sports",
+    "name": "Katya Arafailova Fitness",
+    "description": "Fitness coach in Toronto offering Jumping Fitness, TRX, group workouts and rehabilitation training.",
+    "description_uk": "Фітнес-тренерка у Торонто, яка проводить заняття з Jumping Fitness, TRX, групові тренування та реабілітаційні заняття.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/katya_arafailova",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "37fc59d0-3ed6-4500-b549-a4d10e8ecf63",
+    "type": "business",
+    "category": "events",
+    "name": "Valeriia Chernenko Photography",
+    "description": "Family and wedding photographer in Toronto and the GTA, offering natural, relaxed photo sessions. Willing to travel for sessions.",
+    "description_uk": "Фотографка для сімей і весіль у Торонто та GTA, яка проводить природні, невимушені фотосесії. Готова виїжджати в інші місця.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://vcphotographer.com",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "3909564d-1064-4273-a7c8-ee89f00cfc47",
     "type": "event",
     "category": "networking",
@@ -155,6 +241,40 @@
     "speaks_ukrainian": false
   },
   {
+    "id": "42beced0-26a6-4377-acf5-02c044dbe824",
+    "type": "business",
+    "category": "sports",
+    "name": "Easy Dance Studio",
+    "description": "Dance studio serving Mississauga and Etobicoke with classes for kids, teens and adults. Prospective students fill out an online form to find a suitable class.",
+    "description_uk": "Танцювальна студія, яка працює в Міссісазі та Етобіко та проводить заняття для дітей, підлітків і дорослих. Щоб підібрати відповідне заняття, потрібно заповнити онлайн-форму.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Mississauga",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc24Y-t4zhJV01F__35viBFCYjEKcbM2ZQyLATFk08Vis6Thg/viewform?usp=publish-editor",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "45a39540-3b27-4293-bb5c-c628e89e0643",
+    "type": "group",
+    "category": "culture",
+    "name": "Shevchenko Museum in Toronto",
+    "description": "Art gallery, library and museum in Toronto dedicated to the artistic and literary legacy of Taras Shevchenko, the founder of modern Ukrainian literature.",
+    "description_uk": "Художня галерея, бібліотека і музей у Торонто, присвячені мистецькій та літературній спадщині Тараса Шевченка, основоположника нової української літератури.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/shevchenko_museum_toronto",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "460edfff-3c07-4999-acfd-895a68d4747c",
     "type": "group",
     "category": "networking",
@@ -170,6 +290,23 @@
       "uk"
     ],
     "speaks_ukrainian": true
+  },
+  {
+    "id": "47378ecc-75b0-4193-9be5-6c089f77eece",
+    "type": "business",
+    "category": "beauty",
+    "name": "FAYNA Beauty Studio",
+    "description": "Beauty studio in Coquitlam offering brow and lash services, sugaring, wax hair removal and makeup. The owner is from Ukraine and has over 12 years of experience in the beauty industry.",
+    "description_uk": "Б'юті-студія в Кокитламі, що пропонує догляд за бровами та віями, шугаринг, воскову депіляцію та макіяж. Власниця з України має понад 12 років досвіду в б'юті-індустрії.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Coquitlam",
+    "district": null,
+    "link": "https://sashasavelyeva.com",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
   },
   {
     "id": "4855d3ff-d84d-44d1-a11e-02e3f31c619d",
@@ -223,6 +360,23 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "4f209841-b669-40d6-a374-f70f1f1863a4",
+    "type": "business",
+    "category": "events",
+    "name": "Olena Pogribna",
+    "description": "Architect, photographer and videographer based in Toronto.",
+    "description_uk": "Архітекторка, фотографка та відеографка у Торонто.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://lenapogrebnaya.com",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "55562185-ac13-430e-aa4e-6cb63a232119",
     "type": "business",
     "category": "food",
@@ -251,6 +405,40 @@
     "city": "Toronto",
     "district": null,
     "link": "https://queenswayfamilydentistry.com/",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "5c289d70-add7-4be0-8fe5-df55ffc65b31",
+    "type": "business",
+    "category": "food",
+    "name": "Kozak Ukrainian Restaurant",
+    "description": "Restaurant, bar and bakery serving handmade Ukrainian food with a modern touch, including sourdough bread. Locations listed in Gastown, North Vancouver, East Vancouver, Langley and New Westminster.",
+    "description_uk": "Ресторан, бар і пекарня, де подають домашню українську кухню з сучасним підходом, зокрема хліб на заквасці. Заклади розташовані в Гастауні, Норт-Ванкувері, Східному Ванкувері, Ленглі та Нью-Вестмінстері.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://www.kozakeatery.ca",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "5e0de9f6-991d-45e7-aa21-25f5777c43bc",
+    "type": "business",
+    "category": "legal",
+    "name": "Max Kyrychenko",
+    "description": "Lawyer in Calgary and Edmonton handling personal injury cases such as car accidents, falls and other injuries, serving clients across Alberta online and in person. Works on a percentage of the case win, with no fee if the case is not won.",
+    "description_uk": "Юрист у Калгарі та Едмонтоні, який веде справи про травми: ДТП, падіння та інші ушкодження. Працює з клієнтами по всій Альберті онлайн та офлайн. Оплата — відсоток від виграної справи, а якщо справу не виграно, клієнт нічого не платить.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://www.instagram.com/max_kyrychenko_lawyer",
     "languages": [
       "uk"
     ],
@@ -361,6 +549,42 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "65f1116f-cc89-4b5e-9be1-50539fb937e0",
+    "type": "business",
+    "category": "beauty",
+    "name": "Slava Boievets",
+    "description": "Tattoo artist based in Toronto taking bookings through Instagram direct messages.",
+    "description_uk": "Майстер татуювання у Торонто, запис на сеанс через особисті повідомлення в Instagram.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/slava_boievets",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "67479ba1-45a8-48c5-ad95-2a488ee75cc0",
+    "type": "business",
+    "category": "events",
+    "name": "DJ MC Sash.ko",
+    "description": "DJ and event host in Toronto and the GTA for weddings, corporate events and parties. Bookings are taken by direct message.",
+    "description_uk": "DJ та ведучий заходів у Торонто та GTA для весіль, корпоративів і вечірок. Бронювання через особисті повідомлення.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/dj_sash.ko",
+    "languages": [
+      "en",
+      "uk",
+      "ru"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
     "id": "6ec17e8f-7cc4-484c-94fb-5626da5c5c33",
     "type": "tool",
     "category": "it",
@@ -396,6 +620,23 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "7bcf5c2f-b4d5-4d22-ad95-6cea80aa8d0d",
+    "type": "group",
+    "category": "culture",
+    "name": "INSTITUT",
+    "description": "Underground speakeasy at 620 Spadina in Toronto, presenting music, cinema, literature and art. The bio describes it as Ukrainian etc.",
+    "description_uk": "Підпільний спікізі за адресою 620 Spadina у Торонто, де представлені музика, кіно, література та мистецтво. У описі профілю зазначено \"Ukrainian etc.\"",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/institut.to",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "7e962d1b-6e6a-4092-a7d4-0c130e462ae8",
     "type": "business",
     "category": "home",
@@ -410,6 +651,108 @@
     "languages": [
       "uk",
       "en"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "7f2a7a58-02b5-4b4a-ab00-2e9d87dad1fb",
+    "type": "business",
+    "category": "sports",
+    "name": "Alona Burlakova",
+    "description": "Dance teacher and choreographer based in Toronto, offering online classes. Also linked to the Easy Dance Studio.",
+    "description_uk": "Викладачка танців і хореографка з Торонто, проводить онлайн-класи. Також пов'язана зі студією Easy Dance Studio.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/alona_burlakova",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "8a1d404f-2d7f-4b0c-a4fe-3c568b51f1b5",
+    "type": "social",
+    "category": "culture",
+    "name": "UCAN Radio. Ukrainian radio of Canada",
+    "description": "Ukrainian-language radio and podcast project for Ukrainians in Canada, also on YouTube and Patreon. The bio lists Calgary, Toronto, Edmonton and Vancouver.",
+    "description_uk": "Українське радіо та подкасти для українців у Канаді, також на YouTube і Patreon. У біо вказано Калгарі, Торонто, Едмонтон і Ванкувер.",
+    "scope": "national",
+    "province": null,
+    "city": null,
+    "district": null,
+    "link": "https://www.instagram.com/ucan_radio",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "8f4762e0-0672-4878-a840-0e94ee975a2e",
+    "type": "business",
+    "category": "education",
+    "name": "Nata",
+    "description": "Vocal and piano teacher in downtown Toronto who also coaches voice and public speaking and hosts events.",
+    "description_uk": "Вчителька вокалу і фортепіано в центрі Торонто, яка також тренує голос і публічні виступи та проводить івенти як ведуча.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdVsmlnlfO1__iE8-MxuAo2Bho_DlrOTjmgS53-GZO0UkyC4A/viewform?usp=sf_link",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "90735e0d-2ff4-49fd-a097-ef4a03a8122f",
+    "type": "business",
+    "category": "food",
+    "name": "Ukrainian Kitchen by Lidiia",
+    "description": "Ukrainian kitchen in Toronto that takes food orders by message or phone, with pickup at 3338 Lake Shore Blvd W.",
+    "description_uk": "Українська кухня в Торонто: замовлення приймаються через повідомлення або за телефоном, самовивіз за адресою 3338 Lake Shore Blvd W.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/ukrainian.kitchen.by.lidiia",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "912e2877-c104-43a5-b9e1-189f2498b0e2",
+    "type": "business",
+    "category": "legal",
+    "name": "Переклади IRCC | Calgary | Апостиль | Довіреності | Адвокат",
+    "description": "Document translation service in Calgary, Alberta, offering translations for IRCC, notary services, powers of attorney and apostille.",
+    "description_uk": "Послуги перекладу документів у Калгарі, Альберта: переклади для IRCC, нотаріус, довіреності та апостиль.",
+    "scope": "city",
+    "province": "AB",
+    "city": "Calgary",
+    "district": null,
+    "link": "https://albertatranslations.ca",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "944c3234-5194-4f4f-958c-dd654220f052",
+    "type": "business",
+    "category": "beauty",
+    "name": "Maryna Koicheva",
+    "description": "Lash and brow artist working at Prép Beauty Parlour, 1305 Burrard Street, in Vancouver. Services are offered in Ukrainian.",
+    "description_uk": "Майстриня з вій і брів у Prép Beauty Parlour за адресою 1305 Burrard Street у Ванкувері. Обслуговує українською.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://fresha.com/p/maryna-koicheva-5897618",
+    "languages": [
+      "uk"
     ],
     "speaks_ukrainian": true
   },
@@ -476,6 +819,23 @@
     "city": "Toronto",
     "district": null,
     "link": "https://getsqr.co/stas-p",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "afc25035-33cc-4912-9a02-f61145b29225",
+    "type": "group",
+    "category": "culture",
+    "name": "Vytik Art Collective",
+    "description": "Collective of Ukrainian artists based in Toronto, founded by three artists.",
+    "description_uk": "Колектив українських художників у Торонто, заснований трьома митцями.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/vytik_art_collective",
     "languages": [
       "en"
     ],
@@ -567,6 +927,40 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "b946133f-163e-479a-95b4-15e9315a0d8a",
+    "type": "business",
+    "category": "sports",
+    "name": "Halyna Ponyta Dance",
+    "description": "Dance and Pilates classes in Etobicoke, including high heels and jazz funk, for women. Trial classes are available by sign-up.",
+    "description_uk": "Заняття з танців і пілатесу в Етобіко, зокрема high heels та jazz funk, для жінок. Можна записатися на пробне заняття.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Etobicoke",
+    "link": "https://www.instagram.com/halyna_ponyta",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "bc13605e-eb14-4a2a-bc1e-710248e687c7",
+    "type": "business",
+    "category": "events",
+    "name": "Kateryna Starchenko Photographer & Videographer",
+    "description": "Photography and videography services in Toronto for weddings, couples, families, brands and events. Also available for work worldwide.",
+    "description_uk": "Фото- та відеозйомка у Торонто для весіль, пар, родин, брендів і заходів. Також працює в інших країнах.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/catherineph.art",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "bd8e1d00-4806-4b61-8916-cb57ee438422",
     "type": "group",
     "category": "networking",
@@ -618,6 +1012,40 @@
     "speaks_ukrainian": false
   },
   {
+    "id": "c5ffd753-19f4-4b40-8ba5-f07972bbafc7",
+    "type": "group",
+    "category": "culture",
+    "name": "SVI",
+    "description": "Ukrainian cultural centre in Toronto with a library, events, art and language classes. It also has a student residence and is home to more than 10 organizations.",
+    "description_uk": "Український культурний центр у Торонто з бібліотекою, заходами, мистецькими програмами та мовними курсами. Також має студентську резиденцію й об'єднує понад 10 організацій.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/svi.toronto",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "c638572a-f0fa-44fb-908a-90b03e69a1db",
+    "type": "business",
+    "category": "beauty",
+    "name": "Yuliia Babych",
+    "description": "Tattoo artist working since 2013 at Lamaison tattoo, 369 Carrall Street, in Vancouver. Specializes in botanical, fine line and floral tattoos made freehand, without stencils.",
+    "description_uk": "Тату-майстриня, яка працює з 2013 року в Lamaison tattoo за адресою 369 Carrall Street у Ванкувері. Спеціалізується на ботанічних, fine line і квіткових татуюваннях без трафаретів.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://tattoodo.com/artists/yuliia_babych",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "ce87c254-9c7b-4661-b5e6-0a05fc17cf66",
     "type": "business",
     "category": "health",
@@ -651,6 +1079,40 @@
       "en"
     ],
     "speaks_ukrainian": true
+  },
+  {
+    "id": "d7e949fb-7d5c-414a-99b4-9174f7f970d6",
+    "type": "business",
+    "category": "beauty",
+    "name": "Krystyna Spasova",
+    "description": "Esthetician in Vancouver offering laser procedures, working at Evolve Strength. Services are available in Ukrainian.",
+    "description_uk": "Естетистка у Ванкувері, пропонує лазерні процедури, працює в Evolve Strength. Обслуговування доступне українською мовою.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://www.fresha.com/p/krystyna-spasova-4241667",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
+  },
+  {
+    "id": "d9475e14-9e65-4b34-b988-9bb61b742ded",
+    "type": "business",
+    "category": "events",
+    "name": "Spring Vibes Photography",
+    "description": "Photographer in Vancouver offering family, couple, maternity and newborn photo sessions as well as business portraits.",
+    "description_uk": "Фотографиня у Ванкувері: сімейні, парні, вагітні та newborn-фотосесії, а також бізнес-портрети.",
+    "scope": "city",
+    "province": "BC",
+    "city": "Vancouver",
+    "district": null,
+    "link": "https://bookfocal.com/family-photographers/spring-vibes-photography",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
   },
   {
     "id": "ddb7c145-6f8e-49ca-952b-93ecab8e8fd3",
@@ -722,6 +1184,23 @@
     "speaks_ukrainian": true
   },
   {
+    "id": "e431545d-1119-4175-8960-416f9da2afe9",
+    "type": "business",
+    "category": "events",
+    "name": "Yulia Petrychenko Photographer",
+    "description": "Studio and street photographer in Toronto offering portrait, couples, maternity and family photo sessions. Sessions are booked by direct message or email.",
+    "description_uk": "Студійна та вулична фотографка у Торонто, яка проводить портретні, парні, вагітні та сімейні фотосесії. Записатися можна через особисті повідомлення або електронною поштою.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://petrychenko.wfolio.pro",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
     "id": "e80bed43-0850-476f-84a8-3498b973b669",
     "type": "business",
     "category": "food",
@@ -737,6 +1216,57 @@
       "en"
     ],
     "speaks_ukrainian": false
+  },
+  {
+    "id": "ea44a53e-07f6-4808-bd2f-4849a6e07e18",
+    "type": "business",
+    "category": "kids",
+    "name": "Yana Shutiak",
+    "description": "Acro and baby dance classes for children aged 3 and up in Mississauga and Etobicoke, led by a certified acrobatics coach. A free trial class is offered.",
+    "description_uk": "Заняття з акробатики та дитячих танців для дітей від 3 років у Міссісазі та Етобіко, які веде сертифікована тренерка з акробатики. Пропонують безкоштовне пробне заняття.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Mississauga",
+    "link": "https://www.instagram.com/shutiachka.acrocoach",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "efc1b9d7-6261-46a3-9de2-f763f1cc36e3",
+    "type": "business",
+    "category": "beauty",
+    "name": "Mono Beauty Bar",
+    "description": "Beauty studio at 86 Park Lawn Rd in Etobicoke, Toronto, offering hair, extensions, wigs, makeup, permanent makeup, eyelashes, eyebrows and trichology services.",
+    "description_uk": "Б'юті-студія за адресою 86 Park Lawn Rd в Етобіко, Торонто, що пропонує послуги з догляду за волоссям, нарощування, перуки, макіяж, перманентний макіяж, вії, брови та консультації трихолога.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": "Etobicoke",
+    "link": "https://monobeautybar.schedulista.com/",
+    "languages": [
+      "en"
+    ],
+    "speaks_ukrainian": false
+  },
+  {
+    "id": "f454128e-e61e-492d-bb76-a14a8a2d6c66",
+    "type": "group",
+    "category": "events",
+    "name": "Toronto Group UA",
+    "description": "Ukrainian entertainment community in Toronto: parties, concerts and shows by local performers, including Battle Zirok, Mr.Alex.On, Sweet.dreams.Toronto, Denis Nisim and Tanissima.",
+    "description_uk": "Українська розважальна спільнота в Торонто: вечірки, концерти й виступи місцевих артистів, зокрема Battle Zirok, Mr.Alex.On, Sweet.dreams.Toronto, Denis Nisim і Tanissima.",
+    "scope": "city",
+    "province": "ON",
+    "city": "Toronto",
+    "district": null,
+    "link": "https://www.instagram.com/toronto.group.ua",
+    "languages": [
+      "uk"
+    ],
+    "speaks_ukrainian": true
   },
   {
     "id": "f94f1dc3-ca39-4bb4-bd2d-4e01d857360b",

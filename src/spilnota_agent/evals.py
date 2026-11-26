@@ -44,9 +44,9 @@ def load_cases(listings: list[dict], path: Path = CASES_PATH) -> list[Case]:
 
 
 def recall_at_k(ranked: list[str], relevant: set[str], k: int) -> float:
-    """Share of relevant listings that appear in the top k results."""
+    """Share of relevant listings in the top k; divided by min(relevant, k) so a perfect ranking scores 1.0."""
     found = relevant & set(ranked[:k])
-    return len(found) / len(relevant)
+    return len(found) / min(len(relevant), k)
 
 
 def reciprocal_rank(ranked: list[str], relevant: set[str]) -> float:
@@ -70,7 +70,7 @@ def evaluate(search: SearchFn, cases: list[Case], k: int = 5, verbose: bool = Tr
         print()
 
     summary = {}
-    for source in ("real", "synthetic", "all"):
+    for source in [*sorted({row[0].source for row in rows}), "all"]:
         subset = [row for row in rows if source == "all" or row[0].source == source]
         mean_recall = sum(row[1] for row in subset) / len(subset)
         mrr = sum(row[2] for row in subset) / len(subset)
